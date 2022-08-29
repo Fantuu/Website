@@ -1,2 +1,1 @@
-# Website
-Strona powstała w celach edukacyjnych.
+# what-is-my-ip
